@@ -1,6 +1,7 @@
 package net.objecthunter.flick3d;
 
 import android.app.Activity;
+import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;

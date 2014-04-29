@@ -22,8 +22,8 @@ public class RotationTimerTask implements Runnable{
 
     private GLSurfaceView flick3dView;
 
-    public RotationTimerTask(Flick3dSurfaceView flick3dView) {
-        this.flick3dView = flick3dView;
+    public RotationTimerTask(Flick3dSurfaceView abc) {
+        this.flick3dView = abc;
     }
 
     @Override
